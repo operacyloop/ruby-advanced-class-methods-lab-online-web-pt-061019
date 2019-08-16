@@ -7,7 +7,7 @@ class Song
   end
   
   def initialize 
-    save @song
+  
   end
 
   def save
